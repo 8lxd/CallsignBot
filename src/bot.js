@@ -27,7 +27,7 @@ const statuses = [
   },
   {
     type: ActivityType.Watching,
-    message: 'over Angeltown FivePD'
+    message: 'over ya server name'
   }
 ];
 
